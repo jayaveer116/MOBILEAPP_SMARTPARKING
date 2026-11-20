@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_map"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="Map &amp; Guidance" />
+
+    <item
+        android:id="@+id/nav_recommendations"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="Smart Recommender" />
+
+    <item
+        android:id="@+id/nav_reservations"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="My Passes" />
+
+    <item
+        android:id="@+id/nav_predictions"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Analytics" />
+
+</menu>
